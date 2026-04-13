@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOCKER_USER="rajkumartst"
+DOCKER_USER="krishnaprabhu616"
 IMAGE_DEV="$DOCKER_USER/react-app-dev"
 IMAGE_PROD="$DOCKER_USER/react-app-prod"
 
